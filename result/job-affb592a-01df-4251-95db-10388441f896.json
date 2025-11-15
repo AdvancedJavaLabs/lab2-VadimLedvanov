@@ -1,0 +1,38 @@
+{
+  "jobId" : "job-affb592a-01df-4251-95db-10388441f896",
+  "totalWords" : 80,
+  "topN" : [ {
+    "word" : "vivamus",
+    "count" : 2
+  }, {
+    "word" : "sed",
+    "count" : 2
+  }, {
+    "word" : "interdum",
+    "count" : 2
+  }, {
+    "word" : "placerat",
+    "count" : 2
+  }, {
+    "word" : "aenean",
+    "count" : 1
+  }, {
+    "word" : "tempor",
+    "count" : 1
+  }, {
+    "word" : "torquent",
+    "count" : 1
+  }, {
+    "word" : "elementum",
+    "count" : 1
+  }, {
+    "word" : "etiam",
+    "count" : 1
+  }, {
+    "word" : "adipiscing",
+    "count" : 1
+  } ],
+  "averageSentiment" : 0.0,
+  "fullReplacedText" : "NAME ipsum dolor sit amet consectetur adipiscing elit. NAME faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. NAME leo eu aenean sed diam urna tempor. NAME vivamus fringilla lacus nec metus bibendum egestas. NAME massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos. AMAZING WONDERFUL EXCELLENT elementum risus sed etiam interdum. NAME interdum TERRIBLE CHAOTIC fermentum neque eget placerat.\n",
+  "sortedSentences" : [ "Tempus leo eu aenean sed diam urna tempor.", "In id cursus mi pretium tellus duis convallis.", "Ut hendrerit semper vel class aptent taciti sociosqu.", "Lorem ipsum dolor sit amet consectetur adipiscing elit.", "Ad litora torquent per conubia nostra inceptos himenaeos.", "Iaculis massa nisl malesuada lacinia integer nunc posuere.", "Quisque faucibus ex sapien vitae pellentesque sem placerat.", "Pulvinar vivamus fringilla lacus nec metus bibendum egestas.", "AMAZING WONDERFUL EXCELLENT elementum risus sed etiam interdum.", "Vivamus interdum TERRIBLE CHAOTIC fermentum neque eget placerat." ]
+}

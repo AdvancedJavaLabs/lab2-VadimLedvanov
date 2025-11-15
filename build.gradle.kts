@@ -28,22 +28,3 @@ kotlin {
 application {
     mainClass.set("Main")
 }
-
-tasks.register<JavaExec>("runAggregator") {
-    group = "application"
-    mainClass.set("aggregators.ResultAggregator")
-    classpath = sourceSets["main"].runtimeClasspath
-}
-
-tasks.register<JavaExec>("runWorker") {
-    group = "application"
-    mainClass.set("workers.TextWorker")
-    classpath = sourceSets["main"].runtimeClasspath
-}
-
-tasks.register<JavaExec>("runProducer") {
-    group = "application"
-    mainClass.set("producers.TextProducer")
-    classpath = sourceSets["main"].runtimeClasspath
-    args("text.txt")
-}
